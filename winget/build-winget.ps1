@@ -1,1 +1,1 @@
-winget export -o winget.txt
+winget export -o winget.json
